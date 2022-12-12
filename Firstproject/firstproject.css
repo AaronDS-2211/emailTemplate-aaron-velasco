@@ -1,0 +1,19 @@
+html
+ {background-color: aqua;
+
+}
+
+
+h1
+{color:blue;}
+
+ul
+{list-style-type:circle;}
+
+.one{
+    background-color:rgb(8, 139, 253)
+}
+p{
+    margin: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
